@@ -4,7 +4,6 @@
 2. Install dependencies:
 
 ```bash
-pipreqs --encoding=utf8
 pip install -r requirements.txt
 ```
 
